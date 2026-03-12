@@ -1,5 +1,5 @@
 
-## Hi! I'm Lorence
+## 👋 Hi! I'm Lorence
 Web Developer / UI/UX Designer
 
 ## 🌐 Socials:
