@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-<!--
 **Lorenxaruuuu/Lorenxaruuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+33861779
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
