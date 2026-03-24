@@ -1,6 +1,6 @@
 
 ## 👋 Hi! I'm Lorence
-Web Developer / UI/UX Designer
+Web Developer | UI/UX Designer
 
 ## 💻 About Me
 - 🌱 I’m currently learning Laravel, React.js and Vercel for Web Development and Deployment
